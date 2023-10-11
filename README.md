@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akhilanarayanan (Akhila Narayanan)
-- 🌱 I’m a 4th year student at the University of Washington - Seattle.
+- 🌱 I’m an undergraduate student at the University of Washington - Seattle.
 - 👀 I’m looking for a backend position as a software engineer.
 - I have experience coding in Java, JavaScript, C, Python, SQL, and Go. 
 - I also have experience with data structures, algorithms, OOP, complexity analysis, systems programming, operating systems, distributed systems, network programming, and machine-level debugging using GDB.
